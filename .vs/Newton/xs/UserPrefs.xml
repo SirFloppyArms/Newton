@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D384904B-4562-3176-3F9D-42F7271C967A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BallMover.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SmallForce.cs" Line="5" Column="43" />
+      <File FileName="Assets/Scripts/ApplyEqualForce.cs" Line="7" Column="16" />
+      <File FileName="Assets/Scripts/BigForce.cs" Line="8" Column="6" />
+      <File FileName="Assets/Scripts/RocketThrust.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/PushEachOther.cs" Line="9" Column="6" />
+      <File FileName="Assets/Scripts/BallPusher.cs" Line="17" Column="10" />
+      <File FileName="Assets/Scripts/BallMover.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Newton" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BallMover.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d241736a-7734-4221-bd7e-174f6ea1578b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
